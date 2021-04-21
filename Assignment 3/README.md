@@ -10,4 +10,8 @@ Basic Part
 
 3-You are allowed to use only Python programming language and Flask framework
 
-4You can hardcode pre-defined usernames and passwords inside your application
+4-You can hardcode pre-defined usernames and passwords inside your application
+
+...........
+user name: admin
+password: pass
