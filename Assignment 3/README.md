@@ -12,6 +12,7 @@ Basic Part
 
 4-You can hardcode pre-defined usernames and passwords inside your application
 
-...........
+...........<br>
 user name: admin
+<br>
 password: pass
